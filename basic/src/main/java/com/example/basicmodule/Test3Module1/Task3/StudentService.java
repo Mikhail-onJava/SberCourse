@@ -1,6 +1,8 @@
 package com.example.basicmodule.Test3Module1.Task3;
 
-import base_module.HOME_WORK_3_PART_1.Task2.Student;
+
+
+import com.example.basicmodule.Test3Module1.Task2.Student;
 
 import java.util.Random;
 
