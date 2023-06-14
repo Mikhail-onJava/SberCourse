@@ -1,4 +1,4 @@
-package ru.sbercource.newtask.config;
+package main.java.ru.sbercource.newtask.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;
